@@ -3,11 +3,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="example/dark.svg"
+    srcset="srcset="https://github.com/jagrut70/jagrutvaghasiya/tree/main/example/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="example/light.svg"
+    srcset="srcset="https://github.com/jagrut70/jagrutvaghasiya/tree/main/example/light.svg"
   />
   <img alt="Breakout Game" src="example/light.svg" />
 </picture>
