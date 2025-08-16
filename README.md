@@ -3,13 +3,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="srcset="https://github.com/jagrut70/jagrutvaghasiya/tree/main/example/dark.svg"
+    srcset="https://raw.githubusercontent.com/jagrut70/jagrutvaghasiya/main/example/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="srcset="https://github.com/jagrut70/jagrutvaghasiya/tree/main/example/light.svg"
+    srcset="https://raw.githubusercontent.com/jagrut70/jagrutvaghasiya/main/example/light.svg"
   />
-  <img alt="Breakout Game" src="example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/jagrut70/jagrutvaghasiya/main/example/light.svg" />
 </picture>
 
 ## 🚀 About Me
