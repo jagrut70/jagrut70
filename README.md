@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jagrut Vaghasiya!
+# Hi, I'm Jagrut Vaghasiya 👋
 
 <picture>
   <source
@@ -12,141 +12,43 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/jagrut70/jagrutvaghasiya/main/example/light.svg" />
 </picture>
 
-## 🚀 About Me
-I'm a passionate **Data Engineer, AI Engineer, and Data Scientist** who loves turning complex data into actionable insights that drive real business impact. With **3+ years of experience** working with Fortune 500 healthcare and retail clients, I've learned that the best solutions come from combining technical expertise with a deep understanding of business needs.
+Data & AI engineer working at the intersection of data engineering and go-to-market. I build the systems revenue teams run on — scoring models, enrichment pipelines, and agentic workflows. 3+ years with Fortune 500 healthcare and retail clients; currently focused on GTM engineering.
 
-I believe in the power of **AI-driven analytics** to solve real-world problems and create meaningful impact. Whether it's building scalable ETL pipelines, training machine learning models, or creating interactive dashboards, I'm always excited to tackle new challenges and learn innovative approaches.
+## What I've shipped
 
-## 💼 What I Do
-I specialize in **automating complex workflows**, **building predictive models**, and **developing scalable data solutions** that help organizations make better decisions. My approach combines technical expertise with creative problem-solving to deliver exceptional results that bridge the gap between data and business value.
+- ETL pipelines processing **10TB+ of nested JSON daily** — PySpark on Microsoft Fabric
+- CNN and Transformer models that lifted predictive accuracy **20%**
+- Two ML-powered features with **$1M+ annual revenue impact**
+- A Python A/B testing framework that raised email conversion **20%** and added **$2.1M** in revenue
+- Power BI dashboards that cut insurance claim cycle time **25%**
 
-## 🎓 My Journey
-- **Completed** Master of Science in Information Technology and Management at **The University of Texas at Dallas** (GPA: 3.42) - graduating May 2025
-- **Completed** Bachelor of Engineering in Computer Engineering from **Gujarat Technological University, India** (GPA: 3.56)
+## Selected projects
 
-## 🛠️ Skills & Technologies
+| Project | What it is |
+|---|---|
+| [digital-twin-ai](https://github.com/jagrut70/digital-twin-ai) | AI-powered digital replicas built on synthetic data — behavioral modeling, health prediction, 3D avatar, conversational interface |
+| [A-Candidate-Recommendation-Engine](https://github.com/jagrut70/A-Candidate-Recommendation-Engine) | NLP candidate–job matching with AI-generated explanations per recommendation; Dockerized |
+| [AutoBrowse-AI](https://github.com/jagrut70/AutoBrowse-AI) | Voice-controlled browser agent (LiveKit + Browser-Use) that runs real web tasks like flight search |
+| [PromptPilot](https://github.com/jagrut70/PromptPilot) | Local voice assistant — LLaMA 3, LangChain RAG, ElevenLabs TTS, Whisper STT |
+| [natural-language-to-sql-generator](https://github.com/jagrut70/natural-language-to-sql-generator) | Natural language → SQL with few-shot learning and query validation |
+| [labor-analytics-dashboard](https://github.com/jagrut70/labor-analytics-dashboard) | Labor analytics with PostgreSQL, ML, and Power BI |
 
-### **Cloud & Data Platforms**
-- **Google Cloud Platform** - BigQuery, Cloud Storage for scalable data solutions
-- **Microsoft Fabric** - Data processing and analytics workflows
-- **Snowflake, PostgreSQL** - Data warehousing and management
+Recent GTM engineering work — lead-scoring and call-queue systems, outbound agent prototypes — lives in private repos. Happy to walk through it.
 
-### **Data Engineering & ETL**
-- **Python** - Pandas, NumPy, scikit-learn, PySpark for data processing
-- **ETL/ELT Pipeline Development** - Building robust data pipelines
-- **SQL Optimization** - Performance tuning and advanced queries
-- **Data Pipeline Automation** - Streamlining data workflows
+## Stack
 
-### **AI/ML & Analytics**
-- **LangChain** - LLM orchestration and RAG pipelines
-- **NLP** - Natural Language Processing for text analysis
-- **Predictive Modeling** - Machine learning with TensorFlow/PyTorch
-- **A/B Testing (Bayesian)** - Statistical analysis and experimentation
-- **Marketing Mix Modeling** - Advanced marketing analytics
-- **Clustering** - Customer segmentation and pattern recognition
+| | |
+|---|---|
+| **Data engineering** | Python, PySpark, SQL optimization, ETL/ELT pipeline automation |
+| **AI / ML** | PyTorch, TensorFlow, scikit-learn, LangChain, RAG, NLP, Bayesian A/B testing, marketing mix modeling |
+| **Cloud & warehouse** | GCP (BigQuery), Microsoft Fabric, Snowflake, PostgreSQL |
+| **BI & tooling** | Power BI, Tableau, Jenkins, Git |
 
-### **Visualization & Business Intelligence**
-- **Power BI** - Interactive dashboards and business intelligence
-- **Tableau** - Data visualization and analytics
-- **Excel (Advanced)** - Spreadsheet analysis and automation
+## Education
 
-### **DevOps & Automation**
-- **Jenkins** - CI/CD pipeline automation
-- **GitHub** - Version control and collaboration
-- **Monday.com, JIRA** - Project management and tracking
+- MS, Information Technology & Management — The University of Texas at Dallas (2025)
+- BE, Computer Engineering — Gujarat Technological University
 
-## 💼 Professional Experience
+## Connect
 
-**Data Analyst / Data Engineer**
-
-I'm currently working on some exciting projects that combine AI, data engineering, and healthcare analytics:
-
-- **Architecting and training CNN and Transformer-based models** that improved predictive accuracy by **20%**
-- **Building scalable ETL pipelines** using PySpark on Microsoft Fabric to process **10TB+ of nested JSON data daily**
-- Creating **Power BI dashboards** that reduced insurance claim cycle time by **25%**
-- Launching **2 ML-powered features** that drove **$1M+ annual revenue impact**
-
-**Data Operation Analyst**
-
-My journey started with large-scale email marketing and analytics:
-
-- Built a **Python A/B testing framework** that boosted email conversion rates by **20%** and added **$2.1M in revenue**
-- Designed **Power BI dashboards** for campaign performance monitoring and optimization
-- Managed CRM campaigns and personalized marketing strategies using BigQuery
-
-## 🏆 Featured Projects
-
-### **Digital Twin AI - Synthetic Intelligence Platform**
-A revolutionary system that creates **AI-powered digital replicas** of individuals using advanced synthetic data and machine learning. This project represents the future of human-AI interaction and digital identity.
-
-**Key Innovations:**
-- **Synthetic Data Integration**: Multiple datasets for realistic human modeling
-- **Behavioral AI**: Personality simulation and decision-making algorithms
-- **3D Visualization**: Immersive avatar representation and interaction
-- **Health Intelligence**: Predictive health modeling and wellness tracking
-- **Conversational AI**: Natural language understanding and response generation
-
-**Research Impact:** Contributing to the emerging field of digital twin technology and synthetic intelligence
-
-### **AI-Powered Candidate Recommendation Engine**
-A sophisticated hiring solution that combines **machine learning** and **AI** to revolutionize candidate matching. This system processes job descriptions and resumes using advanced NLP techniques, then provides intelligent recommendations with detailed AI-generated insights.
-
-**What Makes It Special:**
-- **Semantic Understanding**: Goes beyond keyword matching to understand context and meaning
-- **AI Analysis**: Generates human-like explanations for each recommendation
-- **Enterprise Ready**: Includes Docker deployment, comprehensive documentation, and testing
-- **Performance**: Processes candidates in seconds with 95%+ accuracy
-- **User Experience**: Intuitive interface for HR professionals and recruiters
-
-**Impact:** Streamlines hiring processes, reduces time-to-hire, and improves candidate quality through intelligent matching.
-
-## 🚀 Other Cool Projects I've Built
-
-### **AutoBrowse AI**
-Ever wanted an AI assistant that could actually control your browser? I built a **voice-controlled AI agent** using LiveKit that automates flight searches, browser tasks, and even in-game decision-making. It uses Browser-Use AI to interact with real-world applications like Google Flights through LLM agents.
-
-### **PromptPilot**
-I integrated **ElevenLabs (TTS)** and **Silero/Whisper (STT)** to create a seamless natural-language interface for AI voice assistants. The project includes local inference using LLaMA 3 and LangChain-based prompt flows with RAG pipelines.
-
-### **Natural Language to SQL Query Generator**
-This project makes databases more accessible by converting natural language to SQL queries. I used LangChain, Transformers, and PostgreSQL, implementing few-shot learning and robust validation techniques to improve accuracy.
-
-## 🎯 What I'm Passionate About
-- **Data Engineering** - Building robust, scalable data infrastructure
-- **Machine Learning** - Developing and deploying AI models that solve real problems
-- **Business Intelligence** - Turning data into actionable insights
-- **Automation** - Streamlining processes to focus on what matters most
-- **Innovation** - Exploring cutting-edge AI and data technologies
-
-## 📊 Some Highlights of My Work
-- **20% improvement** in predictive model accuracy using CNN and Transformer models
-- **25% reduction** in insurance claim cycle time through better dashboards
-- **$1M+ annual revenue impact** from ML-powered features
-- **20% boost** in email conversion rates through A/B testing
-- **$2.1M additional revenue** from optimized marketing campaigns
-- **10TB+ daily data processing** using scalable ETL pipelines
-
-## 🌟 What I'm Looking For
-- **Exciting Data Engineering Projects** - Building pipelines that scale
-- **AI/ML Opportunities** - Developing models that make a difference
-- **Analytics Leadership** - Driving data-driven decision making
-- **Innovation** - Working on cutting-edge technologies
-- **Growth** - Learning new skills and approaches
-
-## 📫 Let's Connect!
-- **Email**: vaghasiyajagrut380@gmail.com
-- **GitHub**: [@jagrut70](https://github.com/jagrut70)
-- **LinkedIn**: [Jagrut Vaghasiya](https://www.linkedin.com/in/jagrut-vaghasiya/)
-
-## 🎉 Fun Facts About Me
-- 🎯 I'm obsessed with **AI/ML** and finding new ways to apply it
-- 📊 I love the challenge of turning **complex data** into **clear insights**
-- 🚀 Always exploring **emerging technologies** and **innovative solutions**
-- 🌍 Committed to **data-driven decision making** that creates real business impact
-- ☕ Coffee enthusiast (essential for late-night data processing sessions!)
-
----
-
-*"Data is the new oil, but AI is the refinery that turns it into gold."* 🚀
-
-**Let's build something amazing together!** Whether you want to collaborate on a project, discuss the latest in data science and AI, or just say hello, I'd love to connect. Let's turn data into insights and insights into action! 💡
+📫 vaghasiyajagrut380@gmail.com · [LinkedIn](https://www.linkedin.com/in/jagrut-vaghasiya/)
